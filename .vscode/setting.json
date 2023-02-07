@@ -1,0 +1,10 @@
+{
+  "cSpell.words": ["Injectable", "microservices", "nestjs", "postgres"],
+  "editor.detectIndentation": false,
+  "editor.formatOnSave": true,
+  "files.trimTrailingWhiteSpace": true,
+  "editor.wordWrap": "on",
+  "editor.fontSize": 15,
+  "editor.formatOnPaste": true,
+  "window.confirmBeforeClose": "keyboardOnly"
+}

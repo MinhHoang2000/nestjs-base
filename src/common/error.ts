@@ -1,0 +1,28 @@
+export const ERROR_CODE = {
+  UNKNOWN: {
+    CODE: 100,
+    MESSAGE: 'UNKNOWN',
+  },
+  // HTTP CODE
+  BAD_REQUEST: {
+    CODE: 400,
+    MESSAGE: 'BAD_REQUEST',
+  },
+  UNAUTHORIZE: {
+    CODE: 401,
+    MESSAGE: 'UNAUTHORIZE',
+  },
+  FORBIDDEN: {
+    CODE: 403,
+    MESSAGE: 'FORBIDDEN',
+  },
+  NOT_FOUND: {
+    CODE: 404,
+    MESSAGE: 'NOT_FOUND',
+  },
+
+  INTERNAL_SERVER_ERROR: {
+    CODE: 500,
+    MESSAGE: 'INTERNAL_SERVER_ERROR',
+  },
+};
